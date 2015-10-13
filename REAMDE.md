@@ -1,3 +1,3 @@
 ### Robby's Repo!
-Check out my [homepage](robbyhunter.com)
+Check out my [homepage](http://robbyhunter.com)
 
